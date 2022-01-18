@@ -1,0 +1,79 @@
+<h1>Welcome To Weird Facts:</h1>
+
+<br>
+
+<p>There's a company that turns dead bodies into an ocean reef.
+That's weird. Dead bodies in the ocean.</p>
+
+<img src= "C:\Users\Lighthouse\Desktop\Random Facts html\Coral-reef.jpg" alt = "Ocean Reef" width="300" length="200">
+
+<br>
+
+<p>You can buy a flying bicycle. Some people go the shop and buy a flying bicycle.</p>
+
+<img src= "C:\Users\Lighthouse\Desktop\Random Facts html\flying bicycle.jpg" alt ="Flying Bicycle" width="300" length="200">
+
+<br>
+
+<p>Alfred Hitchcock was frightened of eggs. Eggs? I eat eggs all the time while he is frightened of them.</p>
+
+<img src= "C:\Users\Lighthouse\Desktop\Random Facts html\eggs.jpg" alt ="Eggs" width="300" length="200">
+
+<br>
+
+<h1>I'm getting so confused on this facts. Maybe we can go even more confusing</h1>
+
+<br>
+
+<p>Pigs don't sweat. If they are running a marathon they won't sweat. That's a lot of sweat not used.</p>
+
+<img src= "C:\Users\Lighthouse\Desktop\Random Facts html\weird pig.jpg" alt ="Weird Pig" width="300" length="200">
+
+<br>
+
+<p>Spider webs were used as bandages in ancient times. I don't know what to say about that. You used spider webs for bandages. Suprise there is no Spider Man.</p>
+
+<img src= "C:\Users\Lighthouse\Desktop\Random Facts html\Spider Web.jpg" alt ="Bandage Web" width="300" length="200">
+
+<br>
+
+<p>A woman who lost her wedding ring found it 16 years later on a carrot in her garden. WHAT? YOU FOUND A RING 16 YEARS LATER ON A CARROT. THAT COULD'VE BEEN USED FOR MY SNOW MAN.</p>
+
+<img src= "C:\Users\Lighthouse\Desktop\Random Facts html\ring carrot.jpg" alt ="Ring Carrot" width="300" length="200">
+
+<br>
+
+<p>Cotton candy was invented by a dentist. I never trust dentists but know I love them.</p>
+
+<img src= "C:\Users\Lighthouse\Desktop\Random Facts html\cotoon candy.jpg" alt ="Cotton Candy" width="300" length="200">
+
+<br>
+
+<p>Dinosaurs would swallow large rocks which stayed in their stomach to help churn and digest food.Dinosaurs are strong man. I CANT BELIEVE THEY EAT ROCKS!</p>
+
+<img src= "C:\Users\Lighthouse\Desktop\Random Facts html\dinosaur rrr.jpg" alt ="Dinosaur" width="300" length="200">
+
+<br>
+
+<p> A snail can sleep for 3 years. I wish I had that :(.</p>
+
+<img src= "C:\Users\Lighthouse\Desktop\Random Facts html\SNail.jpg" alt= "snail" width="300" length="200">
+
+<br>
+
+<p>Originally, the Eiffel Tower was going to be erected in Barcelona, but the project was rejected because citizens thought it was an eyesore. DAMN.</p>
+
+<img src= "C:\Users\Lighthouse\Desktop\Random Facts html\eiffel tower.jpg" alt ="Eiffel Tower" width="300" length="200">
+
+<p>Dogs can be allergic to humans. No wonder my dog keeps barking.</p>
+
+<br>
+
+<img src= "C:\Users\Lighthouse\Desktop\Random Facts html\doggie.jpg" alt ="Doggie" width="300" length="200">
+
+<br>
+
+<p>The T-rex’s closest living relative is the chicken. So I ate a piece of Dinosaur?</p>
+
+<img src ="C:\Users\Lighthouse\Desktop\Random Facts html\Chicken Dinosaur.jpg" alt= "Chicken Dinosaur" width="300" length="200">
+
